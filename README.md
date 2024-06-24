@@ -10,7 +10,7 @@ This repository include MVP project which have very basic Web3 terms but it is e
 
 ## How to make a Report (Doc, Docx, PDF) to our Company?
 
-1. Full Name
+1. Full Name 
 2. How to upgrade node version 16.20.0 to 18+ with its dependencies.
 3. Analysis of current features and what could be next feature for our project. 
 
